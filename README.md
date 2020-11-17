@@ -4,6 +4,7 @@
 
 ## 📫 Touch Me
 
-- Personal page: https://ilhamsyahids.codes
+- Personal page: https://ilhamsyahids.me
+- Medium: https://ilhamsyahids.medium.com/
 - Linkedin: https://linkedin.com/in/ilhamsyahids/
 - Instagram: https://instagram.com/ilhamsyahids/
