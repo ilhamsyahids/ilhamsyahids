@@ -21,6 +21,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Lifetime Free Google Server](https://ilhamsyahids.com/blog/lifetime-free-google-server)
+- [Speed Up Your Website For Free](https://ilhamsyahids.com/blog/speed-up-your-website-with-cloudflare)
+- [Basic Theories of Natural Language Processing &lpar;NLP&rpar;](https://ilhamsyahids.com/blog/2020/07/20/basics-theories-of-nlp)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
