@@ -19,7 +19,7 @@
 <a href="https://medium.com/@ilhamsyahids" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ilhamsyahids" height="30" width="40" /></a>
 </p>
 
-# Blog posts
+📕 &nbsp;**Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Lifetime Free Google Server](https://ilhamsyahids.com/blog/lifetime-free-google-server)
 - [Speed Up Your Website For Free](https://ilhamsyahids.com/blog/speed-up-your-website-with-cloudflare)
