@@ -27,7 +27,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <details>
-  <summary><b>💻&nbsp;&nbsp;Languages, Framework, and Tools</b></summary>
+  <summary><b>💻&nbsp;&nbsp;Languages, Framework and Tools</b></summary>
   <br/>
   
   <p align="center">
@@ -87,7 +87,6 @@
     <b>📈&nbsp;&nbsp;Stats</b>
   </summary>
   <br/>
-  
 
   <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilhamsyahids&show_icons=true&theme=dark&cache_seconds=1800&&include_all_commits=true&count_private=true" alt="ilhamsyahids" /></p>
 
