@@ -19,6 +19,9 @@
 <a href="https://medium.com/@ilhamsyahids" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ilhamsyahids" height="30" width="40" /></a>
 </p>
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <details>
   <summary><b>💻&nbsp;&nbsp;Languages, Framework, and Tools</b></summary>
