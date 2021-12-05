@@ -13,10 +13,26 @@
 
 <h3 align="center">📫 Reach & Connect with me:</h3>
 <p align="center">
-<a href="mailto:ilhamsyahids@gmail.com?subject=Hi%20Ilham%20From%20Github" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-%23D14836.svg" alt="ilhamsyahids" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ilhamsyahids" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilhamsyahids" height="30" width="40" /></a>
-<a href="https://instagram.com/ilhamsyahids" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilhamsyahids" height="30" width="40" /></a>
-<a href="https://medium.com/@ilhamsyahids" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ilhamsyahids" height="30" width="40" /></a>
+
+  <a href="mailto:ilhamsyahids@gmail.com?subject=Hi%20Ilham%20From%20Github" target="blank">
+    <img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="ilhamsyahids" height="30" width="30" />
+  </a>
+
+  <a href="https://linkedin.com/in/ilhamsyahids" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilhamsyahids" height="30" width="40" />
+  </a>
+
+  <a href="https://instagram.com/ilhamsyahids" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilhamsyahids" height="30" width="40" />
+  </a>
+
+  <a href="https://medium.com/@ilhamsyahids" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ilhamsyahids" height="30" width="40" />
+  </a>
+
+  <a href="https://dev.to/ilhamsyahids" target="blank">
+    <img align="center" src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="@ilhamsyahids" height="30" width="30" />
+  </a>
 </p>
 
 📕 &nbsp;**Blog Posts**
