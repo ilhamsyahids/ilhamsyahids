@@ -37,6 +37,7 @@
 
 📕 &nbsp;**Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [How To Deploy Server &lpar;Node JS&rpar; Using Systemctl](https://ilhamsyahids.com/blog/how-to-deploy-server-using-systemctl)
 - [Lifetime Free Google Server](https://ilhamsyahids.com/blog/lifetime-free-google-server)
 - [Speed Up Your Website For Free](https://ilhamsyahids.com/blog/speed-up-your-website-with-cloudflare)
 - [Basic Theories of Natural Language Processing &lpar;NLP&rpar;](https://ilhamsyahids.com/blog/2020/07/20/basics-theories-of-nlp)
