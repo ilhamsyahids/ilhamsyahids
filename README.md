@@ -6,9 +6,9 @@
 </h4>
 <h3 align="center">Software Engineer</h3>
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ilhamsyahids&theme=onedark&margin-w=20&title=MultiLanguage,Organizations,Commit,Followers,Repositories" alt="ilhamsyahids" />
-</p>
+</p> -->
 
 
 <h3 align="center">📫 Reach & Connect with me:</h3>
@@ -43,8 +43,8 @@
 - [Basic Theories of Natural Language Processing &lpar;NLP&rpar;](https://ilhamsyahids.com/blog/2020/07/20/basics-theories-of-nlp)
 <!-- BLOG-POST-LIST:END -->
 
-<details>
-  <summary><b>💻&nbsp;&nbsp;Languages, Framework and Tools</b></summary>
+<!--   <details>
+<summary><b>💻&nbsp;&nbsp;Languages, Framework and Tools</b></summary>
   <br/>
   
   <p align="center">
@@ -96,7 +96,7 @@
     <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a>
   </p>
 
-</details>
+</details> -->
 
 
 <details>
